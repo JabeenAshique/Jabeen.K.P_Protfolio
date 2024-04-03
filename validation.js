@@ -1,7 +1,7 @@
 const firstname= document.getElementById("firstname");
 const email= document.getElementById("email");
 const msg = document.getElementById("msg");
-const form = document.getElementById("gform");
+const form = document.getElementById("submit-form");
 const name_error= document.getElementById("name_error");
 const email_error= document.getElementById("email_error");
 const msg_error= document.getElementById("msg_error");
